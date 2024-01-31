@@ -1,1 +1,970 @@
-fdrrgrgr
+* {
+    margin: 0;
+    padding: 0;
+}
+#header {
+    width: 100%;
+    height: 880px;
+    background: url(img/golf\ 1.png),#012E29 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    width: 1428px;
+    margin: auto;
+}
+nav {
+    margin: auto;
+    display: flex;
+    padding-top: 20px;
+}
+.menu {
+    margin: auto;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+}
+.menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin: 40px;
+    font-size: 20px;
+}
+.logo {
+    margin-right: 111px;
+    font-size: 50px;
+}
+.nav-btn {
+    margin:  auto;
+    border: 1px solid #D9A253;
+    border-radius: 10px;
+    padding: 16px 20px;
+}
+.nav-btn a {
+    color: #D9A253;
+    text-decoration: none;
+    font-size: 20px;
+}
+.header-text {
+    width: 856px;
+    height: 306px;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+}
+.header-text h1 {
+    color: #fff;
+    top: 100px;
+    font-size: 75px;
+    font-weight: 500;
+    font-family: "Playfair Display";
+}
+.header-text span {
+    color: #D9A253;
+}
+.header-text p {
+    color: aliceblue;
+    font-size: 18px;
+    margin-top: 22px;
+    margin-bottom: 33px;
+}
+.header-ply-btn {
+    display: flex;
+}
+.header-ply-btn a {
+    margin-left: 280px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 14px 25px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 33px;
+    background: #012E29;
+}
+.ply-btn {
+    margin-top: 10px;
+    color: #fff;
+    font-size: 30px;
+}
+.header-ply-btn h3 {
+    color: #fff;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-size: 16px;
+}
+.night-photo {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.night-photo img {
+    border-radius: 7px;
+    overflow: hidden;
+}
+/* --------experience------- */
+
+#experience {
+    width: 100%;
+    height: 900px;
+}
+.experience-text h1 {
+    font-family: "Playfair Display";
+    display: flex;
+    font-size: 50px;
+    width: 685px;
+    height: 173px;
+    padding-top: 350px;
+}
+.experience-p {
+    width: 808px;
+    height: 99px;
+}
+.experience-p p {
+    margin-bottom: 10px;
+}
+.experience-project {
+    width: 960px;
+    height: 165px;
+    display: flex;
+}
+.Onward{
+    border: 1px solid #D9A253;
+    border-radius: 5px;
+    width: 499px;
+    height: 165px;
+}
+.payment-plan {
+    display: flex;
+    height: 108px;
+    border-bottom: 1px solid #D9A253;
+}
+.Onward h2 {
+    text-align: center;
+    margin-top: 16px;
+}
+.bhk {
+    width: 249px;
+    text-align: center;
+}
+.bhk h1 {
+    color: #D9A253;
+    margin-top: 30px;
+    font-size: 24px;
+}
+.bhk p {
+    color: #D9A253;
+    margin-left: 17px;
+}
+.cr {
+    width: 249px;
+    background: #D9A253;
+    text-align: center;
+}
+.cr h1 {
+    color: #fff;
+    margin-top: 10px;
+    font-size: 40px;
+}
+.cr p {
+    color: #fff;
+}
+.hdfc {
+    margin-left: 30px;
+    margin-top: 45px;
+}
+.hdfc h3 {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #000;
+}
+.img-2 {
+    margin-left: 20px;
+}
+.visit-button  {
+    margin-top: 20px;
+    display: flex;
+}
+.visit-button span {
+    color: black;
+    font-weight: 900;
+    padding-left: 10px;
+}
+.visit-button a {
+    color: #fff;
+    border: 1px solid #012E29;
+    border-radius: 10px;
+    padding: 12px 20px;
+    text-decoration: none;
+    background: #012E29;
+}
+.visit-button p {
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+/* -------CourseRoad------ */
+
+#CourseRoad {
+    width: 100%;
+    height: 823px;
+    background: linear-gradient(0deg, #012E29 0%, rgba(1, 46, 41, 0.00) 88.08%), url(img/GOLF-island_AERIAL-16052023-1\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#CourseRoad h1 {
+    font-family: "Playfair Display";
+    padding-top: 700px;
+    font-size: 60px;
+    color: #fff;
+}
+/*--------entertainment--------*/
+#entertainment {
+    height: 550px;
+}
+.Dwarka {
+    width: 650px;
+    height: 109px;
+    margin-top: 50px;
+    color: #58596C;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+.entertainment-coloam {
+    display: flex;
+    margin-left: 100px;
+}
+.conneotivity {
+    background: #FFFBF9;
+    margin-right: 20px;
+    height: 280px;
+    width: 450px;
+    border: 1px solid #D9A253;
+}
+.business {
+    margin-right: 20px;
+    height: 280px;
+    width: 450px;
+    border: 1px solid #D9A253;
+    border-radius: 5px;
+}
+.conneotivity-padding {
+    padding: 20px 20px;
+}
+.conneotivity-padding h1 {
+    color: #000;
+    font-size: 18PX;
+    margin-top: 21PX;
+}
+.conneotivity-padding P {
+    margin-top: 20px;
+    color: #58596C;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+.galore {
+    margin-left: 900px;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    border: 0.35px solid #D9A253;
+    border-radius: 50%; 
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+/* ------Designed------- */
+#Designed {
+    width: 100%;
+    height: 1050px;
+    background: url(img/golf\ 1.png),#012E29 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1 {
+    color: #fff;
+    width: 936px;
+    height: 136px;
+    font-family: "Playfair Display";
+    font-size: 60px;
+    padding-top: 108px;
+}
+.Elegantly {
+    display: flex;
+}
+.container-p {
+    width: 620px;
+    color: #fff;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 17px;
+    padding-bottom: 37px;
+}
+.Balcony {
+    width: 679px;
+    height: 565px;
+    border-radius: 7px;
+    margin-right: 30px;
+    background: #FFFBF9;
+    overflow: hidden;
+}
+.img-3 {
+    border-radius: 7px;
+    overflow: hidden;
+}
+.Course {
+    padding: 20px 20px;
+}
+.Course h2 {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+}
+.Course p {
+    padding-top: 15px;
+    color: var(--Grey, #58596C);
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+}
+.itag {
+    display: flex;
+    padding-top: 50px;
+}
+.itag a {
+    color: #D9A253;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    border: 0.35px solid #D9A253;
+    border-radius: 50%; 
+    margin-right: 20px;
+    text-decoration: none;
+}
+.built-button  {
+    margin-top: 50px;
+    display: flex;
+}
+.built-button  span {
+    font-weight: 900;
+    padding-left: 10px;
+}
+.built-button  a {
+    color: #fff;
+    border: 1px solid #D9A253;
+    border-radius: 10px;
+    padding: 12px 20px;
+    text-decoration: none;
+    background: #D9A253;
+}
+.built-button  p {
+    color: #fff;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+/* -------Floor-Plans----------- */
+#Floor-Plans {
+    height: 1200px;
+}
+.spacious {
+    color: #012E29;
+    font-family: "Playfair Display";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.Floor-Plans-p {
+    width: 620px;
+    height: 38;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    color: #58596C;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+.room-plan {
+    display: flex;
+}
+.carpet {
+    margin: auto;
+    padding-right: 150px;
+}
+.carpet h2 {
+    color: #D9A253;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+}
+.carpet p {
+    color: #58596C;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;  
+    padding: 2px 0;
+}
+
+/* ---------gold-club------- */
+
+#gold-club {
+    width: 100%;
+    height: 1050px;
+    background: url(img/Rectangle\ 1.png),#012E29 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gold-clab-h1 {
+    color: #fff;
+    font-family: "Playfair Display";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    padding-top: 300px;
+}
+.gold-clab-p {
+    display: flex;
+}
+.gold-clab-p p {
+    color: #fff;
+    width: 550px;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.badminton {
+    width: 376px;
+    height: auto;
+    border-radius: 10px;
+    background: #FFFBF9;
+    margin-right: 20px;
+    overflow: hidden;
+}
+.amenities {
+    padding: 30px;
+}
+.replice-image {
+    display: flex;
+    margin-top: 20px;
+}
+.amenities h3 {
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+}
+.amenities h1 {
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.amenities p {
+    width: 299px;
+    height: 93px;
+    color: #58596C;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 180%;
+}
+.amenities h2 {
+    color: #000;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 110%;
+}
+.vbcghfg {
+    display: flex;
+}
+.vbcghfg a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    border: 0.35px solid #D9A253;
+    border-radius: 50%; 
+    margin-right: 20px;
+    text-decoration: none;
+    color: #D9A253;
+}
+
+/* -------Perspective--------- */
+
+#Perspective {
+    width: 100%;
+    height: 680px;
+    background: #F7F1EC;
+}
+.Perspective-text {
+    padding-top: 85px;
+}
+.Perspective-h1 {
+    width: 620px;
+    color: #000;
+    font-family: "Playfair Display";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 113.8%;
+}
+.living {
+    display: flex;
+}
+.Perspective-p {
+    margin-top: 17px;
+    width: 620px;
+    color: #58596C;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%; 
+    margin-bottom: 30px;
+}
+.luxury-icons {
+    display: flex;
+}
+.basketball {
+    display: flex;
+    width: 173px;
+    padding: 22.237px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 7.412px;
+    border-radius: 12px;
+    border: 0.741px solid #D9A253;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.basketball h1 {
+    color: #000;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    text-transform: uppercase;
+}
+.vbcghfg {
+    margin-left: 640px;
+}
+
+/* ----------Observation---------- */
+#Observation {
+    width: 100%;
+    height: 758px;
+    background: linear-gradient(50deg, rgba(2, 56, 50, 0.89) 5%, rgba(0, 0, 0, 0.00) 20%), url(img/Arial\ View2_page-0001\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.Observation-h1 {
+    display: flex;
+    width: 685px;
+    height: 173px;
+    flex-direction: column;
+    justify-content: center;
+    color: #FFF;
+    font-family: "Playfair Display";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 113.8%;
+    padding-top: 420px;
+}
+.Observation-p {
+    width: 620px;
+    color: #D6D6D6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%; /* 18.9px */
+}
+
+/* -------Empowering------ */
+
+.leaders h1 {
+    color: #012E29;
+    text-align: center;
+    font-family: "Playfair Display";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 113.8%;
+    text-transform: capitalize;
+    margin-top: 60px;
+}
+.container-golbal {
+    display: flex;
+    align-items: center;
+    margin-top: 85px;
+    margin-left: 23%;
+}
+.group-1 {
+    width: 476px;
+    height: auto;
+    padding: 10px;
+}
+.group-1 img {
+    padding-left: 270px;
+    width: 204px;
+    height: 59px;
+    margin-bottom: 20px;
+}
+.group-1 p {
+    color: #58596C;
+    text-align: justify;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.14px;
+    margin-bottom: 10px;
+    line-height: 18px;
+}
+.group-1 span {
+    color: #000;
+    font-size: 16px;
+    letter-spacing: 0.14px;
+}
+.group-2 {
+    width: 476px;
+    margin-left: 15px;
+}
+.group-2 img {
+    width: 82px;
+    height: 59px;
+    margin-bottom: 18px;
+}
+.group-2 p {
+    color: #58596C;
+    text-align: justify;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.14px;
+    margin-bottom: 10px;
+    line-height: 20px;
+}
+.group-2 span {
+    color: #000;
+    font-size: 16px;
+    letter-spacing: 0.14px;
+}
+.group-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    color: #58596C;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    border: 0.30px solid #58596C;
+    border-radius: 50%;
+    margin-bottom: 220px;
+}
+.vegas-mall {
+    margin-left: 23%;
+    flex-basis: 48%;
+    margin-bottom: 20px;
+    position: relative;
+}
+.vegas-mall img {
+    border-radius: 7px;
+    overflow: hidden;
+}
+.decades h1 {
+    color: #012E29;
+    text-align: center;
+    font-family: "Playfair Display";
+    font-size: 48px;
+    font-weight: 400;
+}
+.decades span {
+
+    color: var(--Primary, #012E29);
+    font-family: "Playfair Display";
+    font-size: 112px;
+    font-style: normal;
+    font-weight: 500;
+}
+.ject-Delivered {
+    text-align: center;
+    display: flex;
+    margin-top: 57px;
+    margin-left: 26%;
+}
+.items-1 {
+    width: 262px;
+}
+.ject-Delivered  h1 {
+    color:  #012E29;
+    text-align: center;
+    font-family: "Playfair Display";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 113.8%;
+}
+.ject-Delivered h2 {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 45.5px;
+}
+.ject-Delivered  p {
+    color:#58596C;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%;
+}
+.items-2 {
+    width: 199px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.items-3 {
+    width: 276px;
+}
+.items-3 h1 {
+    color: var(--Primary, #012E29);
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 45.5px;
+    text-transform: uppercase;
+}
+.image-viweor {
+    display: flex;
+    margin-left: 325px;
+    text-align: center;
+    margin-top: 91px;
+    gap: 30px;
+    border-radius: 7px;
+    overflow: hidden;
+}
+.commercia {
+    width: 232px;
+    height: 435px;
+    background: #F7F1EC;
+    border-radius: 6px;
+    overflow: hidden;
+}
+.image-viweor h1 {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 33px;
+}
+.photo-gallery-text {
+    display: flex;
+    margin-left: 350px;
+    margin-top: 91px;
+    margin-bottom: 50px;
+}
+.denouncin h1 {
+    color: #000;
+    font-family: "Playfair Display";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 113.8%;
+    margin-bottom: 17px;
+}
+.denouncin p {
+    width: 550px;
+    color: #58596C;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%;
+}
+.photo-gallery img {
+    margin-right: 20px;
+    margin-bottom: 60px;
+}
+
+/* ---------footter---------- */
+
+#footter {
+    width: 100%;
+    height: 1109px;
+    background: linear-gradient(50deg, rgba(2, 56, 50, 0.89) 5%, rgba(0, 0, 0, 0.00) 20%), url(img/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+#footter h1 {
+    color: #FFF;
+    font-family: "Playfair Display";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 70px;
+}
+#footter p {
+    color: var(--Light_Grey, #D6D6D6);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%;
+    margin-top: 16px;
+}
+.containerimput {
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.containerimput form {
+    width: 670px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.containerimput form input {
+    width: 290px;
+    height: 40px;
+    outline: none;
+    border: none;
+    font-size: 14px;
+    margin-bottom: 10px;
+    background: none;
+    border-bottom: 2px solid #D6D6D6;
+}
+.containerimput form input::placeholder {
+    color: #ddd;
+}
+.containerimput form {
+    gap: 50px;
+}
+.containerimput form #Enteryourquery {
+    width: 650px;
+    margin-right: 100px;
+}
+.containerimput form1{
+    width: 670px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+} 
+.containerimput form1 input {
+    width: 630px;
+    height: 40px;
+    outline: none;
+    border: none;
+    font-size: 14px;
+    margin-bottom: 10px;
+    background: none;
+    border-bottom: 2px solid #D6D6D6;
+    margin-left: 20px;
+}
+.containerimput form1 input::placeholder {
+    color: #ddd;
+}
+.footter-btn  {
+    margin-top: 50px;
+}
+.footter-btn  span {
+    font-weight: 900;
+    padding-left: 10px;
+}
+.footter-btn  a {
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+.footter-btn  p {
+    padding-top: 30px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+#footter h2 {
+    padding-top: 35px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+#footter h3 {
+    margin-top: 25px;
+    color: #D6D6D6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.last-text {
+    width: 1161px;
+    height: 125px;
+    color: #979797;
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 153%;
+    margin-left: 350px;
+    padding-top: 40px;
+}
