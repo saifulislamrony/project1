@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 #header {
     width: 100%;
@@ -109,11 +110,10 @@ nav {
     height: 900px;
 }
 .experience-text h1 {
+    font-weight: 500;
     font-family: "Playfair Display";
-    display: flex;
     font-size: 50px;
     width: 685px;
-    height: 173px;
     padding-top: 350px;
 }
 .experience-p {
@@ -264,6 +264,9 @@ nav {
     font-style: normal;
     font-weight: 400;
 }
+.nmkhkjh {
+    display: flex;
+}
 .galore {
     margin-left: 900px;
 }
@@ -277,6 +280,7 @@ nav {
     border-radius: 50%; 
     text-decoration: none;
     margin-right: 20px;
+    color: #D9A253;
 }
 
 /* ------Designed------- */
@@ -293,7 +297,6 @@ nav {
     height: 136px;
     font-family: "Playfair Display";
     font-size: 60px;
-    padding-top: 108px;
 }
 .Elegantly {
     display: flex;
@@ -353,6 +356,9 @@ nav {
     border-radius: 50%; 
     margin-right: 20px;
     text-decoration: none;
+}
+.rydttdf {
+    display: none;
 }
 .built-button  {
     margin-top: 50px;
@@ -423,6 +429,35 @@ nav {
     font-weight: 400;  
     padding: 2px 0;
 }
+.mak-button  {
+    margin-top: 20px;
+    display: flex;
+}
+.mak-button span {
+    color: black;
+    font-weight: 900;
+    padding-left: 10px;
+}
+.mak-button a {
+    color: #fff;
+    border: 1px solid #012E29;
+    border-radius: 10px;
+    padding: 12px 20px;
+    text-decoration: none;
+    background: #012E29;
+}
+.mak-button p {
+    margin-left: 35px;
+    margin-top: 10px;
+}
+.night-photo-2 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.night-photo-2 img {
+    border-radius: 7px;
+    overflow: hidden;
+}
 
 /* ---------gold-club------- */
 
@@ -452,6 +487,14 @@ nav {
     font-style: normal;
     font-weight: 400;
     margin-top: 10px;
+}
+.badminton-frist {
+    width: 376px;
+    height: auto;
+    border-radius: 10px;
+    background: #FFFBF9;
+    margin-right: 20px;
+    overflow: hidden;
 }
 .badminton {
     width: 376px;
@@ -553,6 +596,27 @@ nav {
 .luxury-icons {
     display: flex;
 }
+.basketball-2 {
+    display: flex;
+    width: 173px;
+    padding: 22.237px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 7.412px;
+    border-radius: 12px;
+    border: 0.741px solid #D9A253;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.basketball-2 h1 {
+    color: #000;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    text-transform: uppercase;
+}
 .basketball {
     display: flex;
     width: 173px;
@@ -599,7 +663,7 @@ nav {
     font-style: normal;
     font-weight: 500;
     line-height: 113.8%;
-    padding-top: 420px;
+    padding-top: 480px;
 }
 .Observation-p {
     width: 620px;
@@ -608,7 +672,8 @@ nav {
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
-    line-height: 135%; /* 18.9px */
+    line-height: 135%;
+    padding-top: 100px;
 }
 
 /* -------Empowering------ */
@@ -636,7 +701,7 @@ nav {
     padding: 10px;
 }
 .group-1 img {
-    padding-left: 270px;
+    margin-left: 220px;
     width: 204px;
     height: 59px;
     margin-bottom: 20px;
@@ -715,7 +780,6 @@ nav {
     font-weight: 400;
 }
 .decades span {
-
     color: var(--Primary, #012E29);
     font-family: "Playfair Display";
     font-size: 112px;
@@ -783,6 +847,13 @@ nav {
     margin-top: 91px;
     gap: 30px;
     border-radius: 7px;
+    overflow: hidden;
+}
+.commercia-1 {
+    width: 232px;
+    height: 435px;
+    background: #F7F1EC;
+    border-radius: 6px;
     overflow: hidden;
 }
 .commercia {
@@ -944,6 +1015,17 @@ nav {
     line-height: normal;
     text-transform: uppercase;
 }
+#footter h4 {
+    padding-top: 35px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
 #footter h3 {
     margin-top: 25px;
     color: #D6D6D6;
@@ -968,3 +1050,4 @@ nav {
     margin-left: 350px;
     padding-top: 40px;
 }
+

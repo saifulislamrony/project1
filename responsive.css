@@ -1,0 +1,435 @@
+@media screen and  (max-width: 360px){
+    #header {
+        width: 100%;
+        height: 500px;
+    }
+    .header-text {
+        width: 96%;
+    }
+    .header-text h1 {
+        font-size: 30px;
+        text-align: left;
+    }
+    .header-text span {
+        margin-left: 50px;
+    }
+    .header-text p {
+        width: 310px;
+        font-size: 9px;
+        text-align: left;
+    }
+    .header-ply-btn {
+        display: block;
+        text-align: left;
+    }
+    .header-ply-btn a {
+        margin-left: 60px;
+    }
+    .ply-btn {
+        display: block;
+        margin-top: 30px;
+        margin-left: 65px;
+    }
+    .header-ply-btn h3 {
+        margin-left: 105px;
+        margin-top: -25px;
+        font-size: 15px;
+    }
+    .night-photo img {
+        height: 171px;
+        width: 277px;
+        margin-top: -100px;
+        margin-left: 41.5px;
+    }
+    #experience {
+        width: 100%;
+    }
+    .experience-text h1 {
+        width: 299px;
+        font-size: 25px;
+        margin-left: 25px;
+        margin-top: -200px;
+    } 
+    .experience-p {
+        width: 299px;
+        font-size: 7px;
+        margin-left: 25px;
+        margin-top: 80px;
+    }
+    .experience-p p {
+        margin-bottom: 0;
+    }
+    .experience-project {
+        width: 299px;
+        display: block;
+        margin-left: 25px;
+        margin-top: -30px;
+    }
+    .Onward{
+        width: 298px;
+        height: 165px;
+    }
+    #entertainment {
+        margin-bottom: 50px;
+    }
+    .hdfc {
+        margin-left: 0;
+    }
+    .huyhhhh {
+        display: flex;
+    }
+    .visit-button  {
+        margin-top: 160px;
+        display: block;
+        margin-left: 100px;
+    }
+    .visit-button p {
+        margin-left: 0;
+        padding-top: 10px;
+        font-size: 12px;
+        margin-left: 17px;
+    }
+    #CourseRoad {
+        width: 100%;
+        background-size: cover;
+        margin-top: 80px;
+        height: 280px;
+    }
+    #CourseRoad h1 {
+        width: 272px;
+        font-size: 30px;
+        margin-left: 25px;
+        padding-top: 140px;
+    }
+   .Dwarka {
+        width: 240px;
+        margin-left: 25px;
+        font-size: 7px;
+   }
+   .conneotivity {
+        width: 299px;
+        margin-left: -75px;
+        margin-top: -65px;
+    }
+    .business {
+        display: none;
+    }
+    .nmkhkjh {
+        margin-top: -170px;
+        margin-left: 20px;
+    }
+    .galore {
+        margin-left: 0;
+    }
+    #Designed {
+        width: 100%;
+        height: 660px;
+    }
+    .h1 {
+        width: 311px;
+        font-size: 25px;
+        padding-top: 108px;
+        margin-left: 25px;
+        padding-top: 50px;
+    }
+    .container-p {
+        width: 217px;
+        font-size: 8px;
+        margin-left: 25px;
+    }
+    .Around {
+        display: none;
+    }
+    .Balcony {
+        width: 292.5px;
+        margin-left: 25px;
+        height: 292px;
+    } 
+    .Balcony img {
+        height: 178px;
+    }
+    .Course p {
+        font-size: 8px;
+        padding-top: 5px;
+    }
+    .built-button  {
+        margin-top: 50px;
+        display: block;
+        margin-left: 100px;
+    }
+    .built-button  p {
+        margin-left: 0;
+        padding-top: 10px;
+        font-size: 12px;
+        margin-left: 17px;
+        padding-top: 20px;
+    }
+    #Floor-Plans {
+        margin-left: 25px;
+        height: 720px;
+    }
+    .spacious {
+        font-size: 30px; 
+    }
+    .Floor-Plans-p {
+        width: 226px;
+        font-size: 7px;
+    }
+    .room-plan {
+        display: block;
+    }
+    .room-plan img {
+        width: 295px;
+        height: 213;
+    }
+    .carpet {
+        margin-left: 35px;
+        margin-top: 30px;
+    }
+    .mak-button  {
+        margin-top: 40px;
+        display: block;
+        margin-left: 70px;
+    }
+    .mak-button p {
+        margin-left: 0;
+        padding-top: 10px;
+        font-size: 12px;
+        margin-left: 17px;
+        padding-top: 20px;
+    }
+    .night-photo-2 img {
+        height: 171px;
+        width: 277px;
+        margin-top: -20px;
+        margin-left: 18px;
+    }
+    #gold-club {
+        height: 680px;
+    }
+    .gold-clab-h1 {
+        font-size: 30px;
+        padding-top: 100px;
+        margin-left: 25px;
+    }
+    .gold-clab-p {
+        display: block;
+    }
+    .gold-clab-p p {
+        width: 255px;
+        font-size: 8px;
+        margin-left: 25px;
+    }
+    .badminton-frist  {
+        width: 294px;
+        margin-left: 25px;
+    }
+    .badminton {
+        display: none;
+    }
+    .vbcghfg {
+        display: none;
+    }
+    .Perspective-h1 {
+        width: 295px;
+        font-size: 30px;
+        margin-left: 25px;
+    }
+    .amenities p  {
+        display: none;
+    }
+    #Perspective {
+        height: 550px;
+    }
+    .Perspective-p {
+        width: 217px;
+        margin-left: 25px;
+        font-size: 7px;
+    }
+    .luxury-icons {
+        width: 330px;
+        margin-left: 25px;
+    }
+    .basketball {
+        display: none;
+    }
+    #Observation {
+        height: 210px;
+    }
+    .Observation-h1 {
+        width: 207px;
+        font-size: 12px;
+        padding-top: 140px;
+        margin-left: 25px;
+    }
+    .Observation-p {
+        width: 198px;
+        font-size: 5px;
+        margin-left: 25px;
+        margin-bottom: -20px;
+        padding-top: 0;
+    }
+    .leaders h1 {
+        width: 275px;
+        font-size: 25px;
+        margin-left: 42.5px;
+    }
+    .container-golbal {
+        display: block;
+        margin-top: 85px;
+        margin-left: 42.5px;
+    }
+    .group-1 {
+        width: 260px;
+    }
+    .group-1 img {
+        margin-left: 15px;
+        width: 204px;
+        height: 59px;
+        margin-bottom: 20px;
+    }
+    .group-1 p {
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        letter-spacing: 0;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+    .group-3{
+        margin-left: 120px;
+    }
+    .group-2 {
+        width: 260px;
+    }
+    .group-2 img {
+        margin-left: 95px;
+        margin-bottom: 18px;
+    }
+    .group-2 p {
+        font-style: normal;
+        font-weight: 700;
+        letter-spacing: 0;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+    .vegas-mall {
+        margin-left: 32px;
+        margin-bottom: 0;
+    }
+    .vegas-mall img {
+        width: 296px;
+        height: 169px;
+    }
+    .decades h1 {
+        width: 244px;
+        font-size: 20px;
+        margin-left: 58px;
+    }
+    .decades span {
+        font-size: 40px;
+    }
+    .ject-Delivered {
+        width: 158px;
+        display: block;
+        margin-top: 57px;
+        margin-left: 101px;
+    }
+    .items-1 {
+        width: 151px;
+    }
+    .ject-Delivered  h1 {
+        font-size: 40px;
+    }
+    .ject-Delivered h2 {
+        font-size: 18px;
+    }
+    .ject-Delivered  p {
+        font-size: 9px;
+    }
+    .items-2 {
+        width: 114px;
+        margin-left: 22px;
+    }
+    .items-3 {
+        width: 158px;
+    }
+    .items-3 h1 {
+        font-size: 25px;
+
+    }
+    .commercia {
+        display: none;
+    }
+    .image-viweor {
+        margin-left: 64px;
+        margin-top: 30px;
+    }
+    .commercia-1 img {
+        width: 232px;
+        height: 342px;
+    }
+    .photo-gallery-text {
+        display: block ;
+        width: 300px;
+        margin-left: 25px;
+        margin-top: 30px;
+    }
+    .denouncin h1 {
+        font-size: 35px;
+    }
+    .denouncin p {
+        width: 300px;
+        font-size: 9px;
+    }
+    .ful {
+        display: none;
+    }
+    .photo-gallery {
+        display: flex;
+        margin-left: 25px;
+    }
+    #footter h1 {
+        width: 311px;
+        font-size: 25px;
+        margin-left: 24.5px;
+
+    }
+    #footter p {
+        font-size: 8px;
+        width: 311px;
+        margin-left: 24.5px;
+    }
+    .containerimput {
+        width: 320px;
+        margin-left: 0;
+        margin-top: 50px;
+    }
+    .containerimput form {
+        width: 320px;
+        margin-left: 15px;
+    }
+    .containerimput form input {
+        width: 320px;
+        font-size: 10px;
+    }
+    .containerimput form1{
+        width: 320px;
+        margin-left: -5px;
+    } 
+    .containerimput form1 input {
+        width: 340px;
+        font-size: 10px;
+    }
+    .footter-btn  p {
+        display: none;
+    }
+    #footter h2 { 
+        display: none;
+    }
+    #footter h3 {
+        width: 155px;
+        font-size: 13px;
+        margin-left: 102.5px;
+    }
+}
